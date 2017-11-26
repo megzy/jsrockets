@@ -1,3 +1,9 @@
+var myName = function (name) {
+	alert('Greetings ' + name);
+}
+
+
+
 var car = {
 	make: 'VW',
 	type:  'Polo',
